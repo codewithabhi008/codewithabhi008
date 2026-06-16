@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Abhijeet
 
-<!--
-**codewithabhi008/codewithabhi008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+🚀 Learning Coding From Scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Diploma in Mechanical Engineering
+
+🌱 Currently Learning:
+- C Programming
+- C++
+- Java
+- Python
+
+📚 My Goals:
+- Become a Software Engineer
+- Build Real World Projects
+- Learn Data Structures & Algorithms
+- Crack IT Interviews
+
+## 🛠️ Skills
+- C
+- C++
+- Java
+- Python
+- Git
+- GitHub
+
+## 📂 Projects
+🔹 C Programming Practice
+
+🔹 Array Programs in C
+
+🔹 Upcoming Java Projects
+
+🔹 Future Web Development Projects
+
+## 📈 Current Focus
+- Improving Problem Solving Skills
+- Daily Coding Practice
+- Building Strong Programming Fundamentals
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/abhijeet-tiwari-609981222
+
+X (Twitter): @Abhijeet260820
+
+---
+⭐ "Every expert was once a beginner."
