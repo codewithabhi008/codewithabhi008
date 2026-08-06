@@ -80,21 +80,25 @@
 
 <p align="center">
 
-<a href="https://github.com/codewithabhi008">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/codewithabhi008" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhijeet-tiwari-609981222">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/abhijeet-tiwari-609981222" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-</p>
+<a href="https://www.instagram.com/imabhii_26?igsh=bDB1cnljcWlyenQ=" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
+<a href="https://www.facebook.com/share/1brM3QzRug/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=codewithabhi008&label=Profile+Views&color=0e75b6&style=flat"/>
+<a href="https://x.com/Abhijeet260820" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 </p>
 
