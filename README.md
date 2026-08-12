@@ -56,14 +56,15 @@
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhi008&layout=compact&theme=tokyonight" />
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhi008&layout=compact&theme=tokyonight)
+
 </p>
 
 ## 🚀 About Me
 
 Hello! I'm Abhi, a developer passionate about building projects.
 
----
 
 ## 📌 Featured Projects
 
