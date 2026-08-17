@@ -209,7 +209,9 @@ My responsibilities include:
 
 I have hands-on experience in converting project/order requirements into:
 
-```text
+
+
+
 Project / Order Requirements
           │
           ▼
@@ -270,8 +272,16 @@ Diploma in Mechanical Engineering
               ▼
    Full Stack Software Engineer
 
-⭐ Thanks for visiting my profile!
+---
 
-Keep Learning • Keep Building • Keep Growing 🚀
+<p align="center">
 
-</p> ```
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=⭐+Thanks+for+visiting+my+profile!;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing+%F0%9F%9A%80;See+you+in+my+next+project!+%F0%9F%92%BB"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</p>
