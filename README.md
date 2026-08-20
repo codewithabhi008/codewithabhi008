@@ -65,7 +65,11 @@ Alongside my engineering career, I am actively transitioning into **Software Dev
 
 **Institute:** Suyush Institute of Information Technology
 
-**Specialization:** Mechanical Design
+### 01. 🎓 Education CAD Genius:
+
+**Autocad in Mechanical Engineering**
+
+**Institute:** CAD GENIUS Computer Training center
 
 ### 02. 💼 Professional Experience
 
@@ -105,6 +109,82 @@ Alongside my engineering career, I am actively transitioning into **Software Dev
 
 My long-term goal is to combine my **engineering experience + programming skills** to build practical software solutions and become a professional **Full Stack Software Engineer**.
 
+
+<!-- ===================== ENGINEERING IDENTITY ===================== -->
+
+<h2 align="center">⚙️ Engineering Identity</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mechanical%20Design-Specialist-0F2027?style=for-the-badge&logo=autodesk&logoColor=36BCF7"/>
+  <img src="https://img.shields.io/badge/3D%20Modelling-Expert-203A43?style=for-the-badge&logo=solidworks&logoColor=E31837"/>
+  <img src="https://img.shields.io/badge/Sheet%20Metal-Design-2C5364?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LT%20Panel-Design-0E75B6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>📐 Precision in Design</b>
+  &nbsp; | &nbsp;
+  <b>⚙️ Engineering in Practice</b>
+  &nbsp; | &nbsp;
+  <b>🚀 Innovation in Progress</b>
+</p>
+
+<p align="center">
+  <i>From Mechanical Design to Software Development — continuously learning, designing and building.</i>
+</p>
+
+<!-- ===================== TOTAL ORDER PROCESS ===================== -->
+
+<h2 align="center">🔄 Total Order Process (T.O.P.)</h2>
+
+<p align="center">
+  <i>From Project Requirements to Final Manufacturing Support</i>
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-Project%20%2F%20Order%20Requirements-0F2027?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/02-Mechanical%20Design-203A43?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/03-3D%20Modelling-2C5364?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/04-GA%20%2F%20Detailed%20Drawings-0E75B6?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/05-BOM%20Preparation-405DE6?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/06-Fabrication%20Documentation-6C63FF?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/07-Production%20Coordination-00A98F?style=for-the-badge"/>
+
+⬇️
+
+<img src="https://img.shields.io/badge/08-Final%20Manufacturing%20Support-FF6B35?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>⚙️ Design → 📐 Model → 📋 Document → 🏭 Manufacture → 🚀 Deliver</b>
+</p>
+
+
+
 ---
 
 # 🔧 Core Mechanical Design Expertise
@@ -139,27 +219,15 @@ My long-term goal is to combine my **engineering experience + programming skills
 7. Panel Body Structures
 8. Fabrication-Oriented Design
 
-## 🏗️ 04. Sheet Metal Design & Fabrication
 
-1. Sheet Metal Modelling
-2. Bending Requirements
-3. Cutting Requirements
-4. Welding Considerations
-5. Fabrication Requirements
-6. Assembly Considerations
-7. Manufacturing-Oriented Design
-
-## 📋 05. BOM & Engineering Documentation
+## 📋 04. BOM & Engineering Documentation
 
 1. Bill of Materials (BOM)
 2. Material Details
-3. Component Specifications
-4. Quantity Management
-5. GA Drawings
-6. Detailed Drawings
-7. Material Specifications
-8. Design Revisions
-9. Production Documentation
+3. GA Drawings
+4. Detailed Drawings
+5. Material Specifications
+6. Design Revisions
 
 ---
 
@@ -230,26 +298,26 @@ My long-term goal is to combine my **engineering experience + programming skills
 5. 🔄 Learn Data Structures & Algorithms
 6. 🔄 Practice Problem Solving
 
-### 🌐 Web Development
-
-7. 🔄 Improve HTML & CSS
-8. 🔄 Learn JavaScript Deeply
-9. 🔄 Build Full Stack Web Applications
-10. 🚀 Develop Real-World Projects
-
 ### 🧑‍💻 Career Development
 
-11. 🔄 Build a Strong GitHub Portfolio
-12. 🔄 Create Practical Software Projects
-13. 🚀 Combine Engineering + Software Skills
-14. 🎯 Become a Professional Software Engineer
-15. 🏆 Become a Full Stack Software Engineer
+7. 🔄 Build a Strong GitHub Portfolio
+8. 🔄 Create Practical Software Projects
+9. 🚀 Combine Engineering + Software Skills
+10. 🎯 Become a Professional Software Engineer
+11. 🏆 Become a Full Stack Software Engineer
 
+### 🌐 Web Development loding 
+
+12. 🔄 Improve HTML & CSS
+13. 🔄 Learn JavaScript Deeply
+14. 🔄 Build Full Stack Web Applications
+15. 🚀 Develop Real-World Projects
 ---
-
 # 🔄 Total Order Process (T.O.P.)
 
 My experience includes converting project and order requirements into a complete engineering workflow.
+
+
 
 # 📞 Contact & Connect
 
@@ -307,27 +375,72 @@ My experience includes converting project and order requirements into a complete
 | 06 | ✈️ Telegram | **@baba_aviiee_08** |
 | 07 | 🧵 Threads | **@aviiee_baba.04** |
 
+<!-- ===================== PREMIUM FOOTER ===================== -->
 
-```text
-01. Project / Order Requirements
-                │
-                ▼
-02. Mechanical Design
-                │
-                ▼
-03. 3D Modelling
-                │
-                ▼
-04. GA / Detailed Drawings
-                │
-                ▼
-05. BOM Preparation
-                │
-                ▼
-06. Fabrication Documentation
-                │
-                ▼
-07. Production Coordination
-                │
-                ▼
-08. Final Manufacturing Support
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header&text=THANK%20YOU%20FOR%20VISITING%20MY%20GITHUB&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+profile!;Keep+Learning+%E2%80%A2+Keep+Building+%E2%80%A2+Keep+Growing;Engineering+%E2%9A%99%EF%B8%8F+%2B+Code+%F0%9F%92%BB+%3D+Innovation+%F0%9F%9A%80"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️_MECHANICAL_DESIGN-0F2027?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💻_SOFTWARE_DEVELOPMENT-203A43?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🚀_CONTINUOUS_LEARNING-2C5364?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SOLIDWORKS-E31837?style=for-the-badge&logo=solidworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+<br>
+
+<p align="center">
+  <b>💡 Turning Ideas into Code &nbsp; • &nbsp; Designs into Solutions ⚙️</b>
+</p>
+
+<p align="center">
+  <i>Building today for a better tomorrow.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/codewithabhi008">
+    <img src="https://img.shields.io/badge/⭐_FOLLOW_MY_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer"/>
+</p>
+
+<p align="center">
+  <b>© CODEWITHABHI • Abhijeet Tiwari</b>
+</p>
+
+<p align="center">
+  <sub>Mechanical Design Engineer • Aspiring Software Engineer • Lifelong Learner</sub>
+</p>
+
+
+
+
