@@ -9,284 +9,325 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/codewithabhi008">
-    <img src="https://komarev.com/ghpvc/?username=codewithabhi008&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=codewithabhi008&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Abhijeet Tiwari
 
-### 🛠️ Mechanical Design Engineer | 💻 Aspiring Software Engineer | 🚀 Developer
+### ⚙️ Mechanical Design Engineer | 💻 Aspiring Software Engineer | 🚀 Developer
 
 > **"Learning today. Building tomorrow."**
 
-I am a **Mechanical Design Engineer with 3+ years of professional experience** in mechanical design, electrical panel board design, sheet metal fabrication, engineering documentation, and manufacturing-oriented design.
+I am a **Mechanical Design Engineer with 3+ years of professional experience** in mechanical design, electrical panel board design, sheet metal fabrication, engineering documentation and manufacturing-oriented design.
 
-I graduated from **Suyush Institute of Information Technology** with a **Diploma in Mechanical Engineering**, specializing in Mechanical Design.
+I hold a **Diploma in Mechanical Engineering** from **Suyush Institute of Information Technology**, specializing in Mechanical Design.
 
 Currently, I am working as a **Mechanical Design Engineer at AJMERA ELECTROTECH LLP**, where I work on **Total Order Process (T.O.P.) mechanical design and development** for electrical panel boards and LT Power Panel systems.
 
-Alongside my professional engineering career, I am actively transitioning into **Software Development**, learning programming and building practical projects using **C, C++, Python, Java, HTML, CSS and JavaScript**.
+Alongside my engineering career, I am actively transitioning into **Software Development**, learning and building projects using:
+
+`C` • `C++` • `Python` • `Java` • `HTML` • `CSS` • `JavaScript`
 
 ---
 
-# 🧑‍💼 Professional Profile
+# 🏢 Current Role
 
-### Mechanical Design Engineer | 3+ Years Experience
+## 👨‍💼 Mechanical Design Engineer
+### AJMERA ELECTROTECH LLP
 
-My professional experience combines **mechanical design, electrical panel board design, sheet metal fabrication, engineering documentation, and production-oriented design**.
+**Experience:** 3+ Years  
+**Domain:** Mechanical Design & Electrical Panel Board Design
 
-I focus on creating **accurate, practical, and manufacturing-ready designs** while considering dimensional accuracy, fabrication requirements, material optimization, assembly considerations, and project requirements.
+### 🔹 Key Responsibilities
 
-### 🏢 Current Role
+1. ⚡ Designing mechanical structures for **LT Power Panel systems**
+2. 🏗️ Designing electrical panel board enclosures and structures
+3. 📐 Creating 3D mechanical parts and assemblies
+4. 🔧 Designing sheet metal components
+5. 📄 Preparing GA and detailed fabrication drawings
+6. 📋 Preparing and managing BOM
+7. 📝 Maintaining engineering documentation
+8. 🔄 Handling design modifications and revisions
+9. 🏭 Coordinating with production and fabrication teams
+10. ⚙️ Converting project requirements into manufacturing-ready designs
+11. 🔄 Working on **Total Order Process (T.O.P.)**
+12. 🎯 Supporting production with practical engineering solutions
 
-**Mechanical Design Engineer – AJMERA ELECTROTECH LLP**
+---
 
-My responsibilities include:
+# 🎓 Education & Career
 
-- Designing mechanical structures for **LT Power Panel systems**
-- Electrical panel board enclosure and structural design
-- Sheet metal component design
-- 3D part modelling and assembly design
-- GA and detailed fabrication drawings
-- BOM preparation and management
-- Engineering documentation
-- Design modifications and revisions
-- Coordination with production and fabrication teams
-- Converting project requirements into production-ready designs
-- Working on **Total Order Process (T.O.P.)**
+### 01. 🎓 Education
+
+**Diploma in Mechanical Engineering**
+
+**Institute:** Suyush Institute of Information Technology
+
+**Specialization:** Mechanical Design
+
+### 02. 💼 Professional Experience
+
+**Mechanical Design Engineer**
+
+**Company:** AJMERA ELECTROTECH LLP
+
+**Experience:** 3+ Years
+
+### 03. ⚙️ Engineering Domain
+
+1. Mechanical Design
+2. Electrical Panel Board Design
+3. Sheet Metal Design
+4. 3D Modelling
+5. Assembly Design
+6. Fabrication Drawings
+7. General Arrangement Drawings
+8. BOM Management
+9. Engineering Documentation
+10. Manufacturing-Oriented Design
+
+### 04. 💻 Software Development Journey
+
+1. C
+2. C++
+3. Python
+4. Java
+5. HTML
+6. CSS
+7. JavaScript
+8. Git & GitHub
+
+### 05. 🚀 Career Goal
+
+**Mechanical Engineer → Software Developer → Full Stack Software Engineer**
+
+My long-term goal is to combine my **engineering experience + programming skills** to build practical software solutions and become a professional **Full Stack Software Engineer**.
 
 ---
 
 # 🔧 Core Mechanical Design Expertise
 
-### 🟢 SOLIDWORKS
+## 🟢 01. SOLIDWORKS
 
-- 3D Part Modelling
-- Assembly Design
-- Sheet Metal Design
-- Fabrication-Ready Drawings
-- Design Modifications
-- Mechanical Component Design
-- Production-Oriented Design
+1. 3D Part Modelling
+2. Assembly Design
+3. Sheet Metal Design
+4. Mechanical Component Design
+5. Fabrication-Ready Drawings
+6. Design Modifications
+7. Production-Oriented Design
 
-### 🔵 AutoCAD Mechanical
+## 🔵 02. AutoCAD Mechanical
 
-- 2D Mechanical Drawings
-- General Arrangement (GA) Drawings
-- Detailed Fabrication Drawings
-- Layout Drawings
-- Manufacturing Documentation
-- Panel Structure Drawings
+1. 2D Mechanical Drawings
+2. General Arrangement (GA) Drawings
+3. Detailed Fabrication Drawings
+4. Layout Drawings
+5. Manufacturing Documentation
+6. Panel Structure Drawings
 
-### ⚡ Electrical Panel Board Mechanical Design
+## ⚡ 03. Electrical Panel Board Design
 
-- LT Power Panel Structures
-- Panel Enclosures
-- Doors
-- Mounting Plates
-- Partitions
-- Sheet Metal Components
-- Panel Body Structures
-- Fabrication-Oriented Design
+1. LT Power Panel Structures
+2. Panel Enclosures
+3. Panel Doors
+4. Mounting Plates
+5. Partitions
+6. Sheet Metal Components
+7. Panel Body Structures
+8. Fabrication-Oriented Design
 
-### 🏗️ Sheet Metal Design & Fabrication
+## 🏗️ 04. Sheet Metal Design & Fabrication
 
-- Sheet Metal Modelling
-- Bending Requirements
-- Cutting Requirements
-- Welding Considerations
-- Fabrication Requirements
-- Assembly Considerations
-- Manufacturing-Oriented Design
+1. Sheet Metal Modelling
+2. Bending Requirements
+3. Cutting Requirements
+4. Welding Considerations
+5. Fabrication Requirements
+6. Assembly Considerations
+7. Manufacturing-Oriented Design
 
-### 📋 BOM & Engineering Documentation
+## 📋 05. BOM & Engineering Documentation
 
-- Bill of Materials (BOM)
-- Material Details
-- Component Specifications
-- Quantity Management
-- GA Drawings
-- Detailed Drawings
-- Material Specifications
-- Design Revisions
-- Production Documentation
+1. Bill of Materials (BOM)
+2. Material Details
+3. Component Specifications
+4. Quantity Management
+5. GA Drawings
+6. Detailed Drawings
+7. Material Specifications
+8. Design Revisions
+9. Production Documentation
 
+---
 
-🧑‍💻 About Me
-	
-🎓 Education	Diploma in Mechanical Engineering
-🏫 Institute	Suyush Institute of Information Technology
-💼 Experience	3+ Years
-🛠️ Current Role	Mechanical Design Engineer
-🏢 Current Company	AJMERA ELECTROTECH LLP
-⚙️ Engineering Focus	Mechanical Design & Electrical Panel Board Design
-💻 Software Focus	C, C++, Python, Java & Web Development
-🚀 Career Goal	Full Stack Software Engineer
-📍 Location	India
-🔥 Learning	Programming & Software Development
+# 💼 Software & Engineering Tools
 
-💼 Software & Engineering Tools
-<p align="center"> <img src="https://img.shields.io/badge/SOLIDWORKS-E31837?style=for-the-badge&logo=solidworks&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/Prowess_ERP-203A43?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/BOM-2C5364?style=for-the-badge"/> <img src="https://img.shields.io/badge/GA_Drawing-0E75B6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sheet_Metal_Design-405DE6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fabrication_Drawing-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/3D_Modelling-00A98F?style=for-the-badge"/> <img src="https://img.shields.io/badge/Assembly_Design-FF6B35?style=for-the-badge"/> <img src="https://img.shields.io/badge/LT_Panel_Design-FFC107?style=for-the-badge&logoColor=black"/> </p>
+<p align="center">
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode,autocad"/> </p> <p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+<img src="https://img.shields.io/badge/SOLIDWORKS-E31837?style=for-the-badge&logo=solidworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prowess_ERP-203A43?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOM-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GA_Drawing-0E75B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sheet_Metal_Design-405DE6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fabrication_Drawing-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/3D_Modelling-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Assembly_Design-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LT_Panel_Design-FFC107?style=for-the-badge&logoColor=black"/>
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewithabhi008&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhi008&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="41%"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=codewithabhi008&theme=tokyonight&hide_border=true" width="70%"/> </p>
+</p>
 
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=codewithabhi008&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/> </p>
+---
 
-🤝 Let's Connect
-<p align="center"> <a href="https://github.com/codewithabhi008"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center">
+# 🧑‍💻 Tech Stack
 
-# 🤝 Let's Connect
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode,autocad"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+# 📌 Professional Strengths
+
+1. 🎯 Accurate and practical mechanical design
+2. 🏭 Manufacturing-oriented design approach
+3. 📐 Strong focus on dimensional accuracy
+4. 🔧 Understanding of fabrication requirements
+5. 🏗️ Understanding of assembly requirements
+6. 📋 Engineering documentation and BOM management
+7. 🤝 Cross-functional collaboration
+8. 🧩 Problem-solving and design modification
+9. ⚙️ Production-oriented engineering approach
+10. 📚 Continuous learning and skill development
+11. 💡 Ability to understand project requirements
+12. 🚀 Strong interest in software engineering
+
+---
+
+# 🎯 Current Goals
+
+### 💻 Programming & Development
+
+1. ✅ Strengthen C Fundamentals
+2. ✅ Strengthen C++ Fundamentals
+3. 🔄 Improve Python Skills
+4. 🔄 Improve Java Skills
+5. 🔄 Learn Data Structures & Algorithms
+6. 🔄 Practice Problem Solving
+
+### 🌐 Web Development
+
+7. 🔄 Improve HTML & CSS
+8. 🔄 Learn JavaScript Deeply
+9. 🔄 Build Full Stack Web Applications
+10. 🚀 Develop Real-World Projects
+
+### 🧑‍💻 Career Development
+
+11. 🔄 Build a Strong GitHub Portfolio
+12. 🔄 Create Practical Software Projects
+13. 🚀 Combine Engineering + Software Skills
+14. 🎯 Become a Professional Software Engineer
+15. 🏆 Become a Full Stack Software Engineer
+
+---
+
+# 🔄 Total Order Process (T.O.P.)
+
+My experience includes converting project and order requirements into a complete engineering workflow.
+
+# 📞 Contact & Connect
+
+<p align="center">
+
+<a href="mailto:abhijeettiwari955@gmail.com">
+<img src="https://img.shields.io/badge/Email-abhijeettiwari955%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:9987738871">
+<img src="https://img.shields.io/badge/Contact-9987738871-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 
 <a href="https://github.com/codewithabhi008">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-@codewithabhi008-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/imabhii_26">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://t.me/baba_aviiee_08">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-@imabhii__26-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Abhijeet260820">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-@Abhijeet260820-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://t.me/baba_aviiee_08">
+<img src="https://img.shields.io/badge/Telegram-@baba__aviiee__08-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://www.threads.com/@aviiee_baba.04">
-<img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
-</a>
-
-<a href="https://www.snapchat.com/add/aviiee_008">
-<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Threads-@aviiee__baba.04-000000?style=for-the-badge&logo=threads&logoColor=white"/>
 </a>
 
 </p>
 
-<p align="center">
-
-### 💬 Feel free to connect with me!
-
-**Code • Design • Engineering • Learning • Building 🚀**
-
-</p>
-
-📌 Professional Strengths
-🎯 Accurate and practical mechanical design
-🏭 Manufacturing-oriented design approach
-📐 Strong focus on dimensional accuracy
-🔧 Understanding of fabrication and assembly requirements
-📋 Engineering documentation and BOM management
-🤝 Cross-functional collaboration
-🧩 Problem-solving and design modification
-📚 Continuous learning and skill development
-🚀 Strong interest in transitioning into software engineering
-
-
-🎯 Current Goals
-✅ Strengthen C & C++ Fundamentals
-✅ Learn Python & Java
-✅ Improve Data Structures & Algorithms
-✅ Build Practical Software Projects
-✅ Develop Full Stack Web Applications
-✅ Build Strong GitHub Portfolio
-✅ Combine Engineering + Software Skills
-🚀 Become a Professional Software Engineer
-
-
-
-### 🔄 Total Order Process (T.O.P.)
-
-I have hands-on experience in converting project/order requirements into:
-
 ---
 
----
+# 📇 Quick Contact
 
-<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
-
-<p align="center">
-  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
-</p>
-
-<p align="center">
-  <i>Turning Ideas into Code & Designs into Solutions 💻⚙️</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
-</p>
+| No. | Contact | Details |
+|:---:|---|---|
+| 01 | 📧 Email | **abhijeettiwari955@gmail.com** |
+| 02 | 📱 Contact Number | **9987738871** |
+| 03 | 🐙 GitHub | **@codewithabhi008** |
+| 04 | 📸 Instagram | **@imabhii_26** |
+| 05 | 𝕏 X | **@Abhijeet260820** |
+| 06 | ✈️ Telegram | **@baba_aviiee_08** |
+| 07 | 🧵 Threads | **@aviiee_baba.04** |
 
 
 ```text
-Project / Order Requirements
-          │
-          ▼
-Mechanical Design
-          │
-          ▼
-3D Modelling
-          │
-          ▼
-GA / Detailed Drawings
-          │
-          ▼
-BOM Preparation
-          │
-          ▼
-Fabrication Documentation
-          │
-          ▼
-Production Coordination
-          │
-          ▼
-Final Manufacturing Support
-
-Diploma in Mechanical Engineering
-              │
-              ▼
-    Mechanical Design Engineer
-              │
-              ▼
-   Electrical Panel Board Design
-              │
-              ├── SOLIDWORKS
-              ├── AutoCAD Mechanical
-              ├── Sheet Metal Design
-              ├── 3D Modelling
-              ├── Assembly Design
-              ├── GA Drawings
-              └── BOM / Documentation
-              │
-              ▼
-       Programming Fundamentals
-              │
-              ├── C
-              ├── C++
-              ├── Python
-              └── Java
-              │
-              ▼
-       Web Development
-              │
-              ├── HTML
-              ├── CSS
-              └── JavaScript
-              │
-              ▼
-     Software Development 🚀
-              │
-              ▼
-   Full Stack Software Engineer
-
-
+01. Project / Order Requirements
+                │
+                ▼
+02. Mechanical Design
+                │
+                ▼
+03. 3D Modelling
+                │
+                ▼
+04. GA / Detailed Drawings
+                │
+                ▼
+05. BOM Preparation
+                │
+                ▼
+06. Fabrication Documentation
+                │
+                ▼
+07. Production Coordination
+                │
+                ▼
+08. Final Manufacturing Support
